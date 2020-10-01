@@ -1,5 +1,7 @@
 from tkinter import *
 import random
+
+# I like you program very much
  
 def init(data):
     data.rows = 16
